@@ -1,0 +1,52 @@
+.calculator {
+  width: 300px;
+  height: 400px;
+  background-color: #eee;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  margin: auto;
+  margin-top: 50px;
+  padding: 10px;
+  box-shadow: 0 0 10px #ccc;
+}
+
+.display {
+  width: 100%;
+  height: 50px;
+  margin-bottom: 10px;
+}
+
+.display input {
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+  border: none;
+  font-size: 22px;
+  text-align: right;
+  padding-right: 12px;
+}
+
+.keypad {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(5, 1fr);
+  gap: 10px;
+}
+
+.keypad button {
+  font-size: 24px;
+  border-radius: 5px;
+  border: none;
+  background-color: #ddd;
+  cursor: pointer;
+}
+
+.keypad button:hover {
+  background-color: #ccc;
+}
+
+.keypad button:active {
+  background-color: #aaa;
+}
+
+  
