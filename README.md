@@ -6,3 +6,22 @@ The Simple Calculator is a web-based application designed with simplicity and ef
  - Basic arithmetic operations (add, subtract, multiply, divide).
  - Clean and easy-to-use interface.
  - Responsive design for desktop and mobile devices.
+# Usage
+**Accessing the Calculator**:
+
+ - If hosted online, navigate to the provided URL.
+ - For local use, download the project files and open the index.html file in a web browser.<br>
+ 
+**Performing Calculations**:
+
+ - **Enter the First Number**: Click on the numeric buttons on the calculator interface to input the first number.
+ - **Select an Operation**: Choose one of the arithmetic operations (addition +, subtraction -, multiplication *, division /) by clicking on the respective button.
+ - **Enter the Second Number**: Input the second number by clicking on the numeric buttons.
+ - **Calculate**: Press the equals (=) button to display the result of the calculation.
+ - **Clearing the Data**: To start a new calculation, press the clear (C) button to reset the input and result display.<br>
+ 
+**Tips for Users**:
+
+ - The calculator's interface is user-friendly and intuitive, designed to accommodate users at any level of expertise.
+ - For an optimal experience, the calculator is best used on devices with a modern web browser.
+ - Should you encounter any issues or have suggestions for improvement, feel free to contribute to the project or open an issue in the repository.
