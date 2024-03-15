@@ -26,3 +26,5 @@ The Simple Calculator is a web-based application designed with simplicity and ef
  - The calculator's interface is user-friendly and intuitive, designed to accommodate users at any level of expertise.
  - For an optimal experience, the calculator is best used on devices with a modern web browser.
  - Should you encounter any issues or have suggestions for improvement, feel free to contribute to the project or open an issue in the repository.
+
+<h1>Contributions are Welcome!</h1>
