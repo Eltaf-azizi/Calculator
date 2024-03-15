@@ -7,6 +7,7 @@ The Simple Calculator is a web-based application designed with simplicity and ef
  - Clean and easy-to-use interface.
  - Responsive design for desktop and mobile devices.
 # Usage
+
 **Accessing the Calculator**:
 
  - If hosted online, navigate to the provided URL.
