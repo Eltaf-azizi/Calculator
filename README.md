@@ -6,6 +6,7 @@ The Simple Calculator is a web-based application designed with simplicity and ef
  - Basic arithmetic operations (add, subtract, multiply, divide).
  - Clean and easy-to-use interface.
  - Responsive design for desktop and mobile devices.
+
 # Usage
 
 **Accessing the Calculator**:
