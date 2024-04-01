@@ -11,12 +11,10 @@ The Simple Calculator is a web-based application designed with simplicity and ef
 # Usage
 
 **Accessing the Calculator**:
-
  - If hosted online, navigate to the provided URL.
  - For local use, download the project files and open the index.html file in a web browser.<br>
  
 **Performing Calculations**:
-
  - **Enter the First Number**: Click on the numeric buttons on the calculator interface to input the first number.
  - **Select an Operation**: Choose one of the arithmetic operations (addition +, subtraction -, multiplication *, division /) by clicking on the respective button.
  - **Enter the Second Number**: Input the second number by clicking on the numeric buttons.
